@@ -172,6 +172,9 @@ footer {
     background: #5221e6;
 }
 
+.navbar .nav-item:hover .nav-link{
+    color:aquamarine;
+}
 @media (max-width: 600px) {
     h1 {
         font-size: 40px;
