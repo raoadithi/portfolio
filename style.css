@@ -96,7 +96,7 @@ h2{
     border-radius: 2px;
 }
 .card-container{
-    width: 20rem;
+    width: 32rem;
 }
 .arrow:hover div{
     transition: transform .2s;
