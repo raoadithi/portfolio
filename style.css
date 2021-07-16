@@ -172,7 +172,7 @@ footer {
     background: #5221e6;
 }
 
-.navbar .nav-item:hover .nav-link{
+.navbar-nav .nav-item:hover .nav-link{
     color:aquamarine;
 }
 @media (max-width: 600px) {
